@@ -20,4 +20,6 @@ Over time certain types of files have piled up, like Apple's face recognition an
 
 The cleaning process consists of running the following scripts and then use #EXIFTOOL to do the heavy lifting of renaming files and moving them in to the right location.
 
+Navigate to your folder and execute the script from your top level folder by running sh /YOURPATH/photo-cleaner/1_clean.sh
 
+#Remember to do this on the copy of your files. Always work on a backup never the original files!
