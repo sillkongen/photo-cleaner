@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 ops=("Database" "Data" "Data.noindex" "Previews" "Thumbs" ".DS_Store" "Thumbnails" "._*" "*.!sync" "Thumbs.db" "Picasa.ini" "masterThumb.jpg" "*.lrdata" "resources")
 length=${#ops[@]}
 for i in "${!ops[@]}"
